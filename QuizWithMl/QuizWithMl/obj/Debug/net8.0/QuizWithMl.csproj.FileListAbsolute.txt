@@ -1,0 +1,15 @@
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\bin\Debug\net8.0\QuizWithMl.exe
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\bin\Debug\net8.0\QuizWithMl.deps.json
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\bin\Debug\net8.0\QuizWithMl.runtimeconfig.json
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\bin\Debug\net8.0\QuizWithMl.dll
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\bin\Debug\net8.0\QuizWithMl.pdb
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.AssemblyInfoInputs.cache
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.AssemblyInfo.cs
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.csproj.CoreCompileInputs.cache
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.sourcelink.json
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.dll
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\refint\QuizWithMl.dll
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.pdb
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\QuizWithMl.genruntimeconfig.cache
+C:\Users\ali\RiderProjects\QuizWithMl\QuizWithMl\obj\Debug\net8.0\ref\QuizWithMl.dll
